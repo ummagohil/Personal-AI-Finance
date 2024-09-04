@@ -13,7 +13,7 @@ Analyse your finances using AI to get a personalised dashboard which forecasts h
 - TypeScript
 - React.js
 - Tensorflow.js-
-- chart.js
+- Chart.js
 
 ### 🔧How to Run the App
 
