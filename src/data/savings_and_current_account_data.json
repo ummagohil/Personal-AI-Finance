@@ -1,0 +1,362 @@
+[
+  {
+    "Date": "2019-01-31T00:00:00.000",
+    "Savings_Account_Balance": 10220,
+    "Current_Account_Expenditure": 150
+  },
+  {
+    "Date": "2019-02-28T00:00:00.000",
+    "Savings_Account_Balance": 12125,
+    "Current_Account_Expenditure": 850
+  },
+  {
+    "Date": "2019-03-31T00:00:00.000",
+    "Savings_Account_Balance": 52400,
+    "Current_Account_Expenditure": 200
+  },
+  {
+    "Date": "2019-04-30T00:00:00.000",
+    "Savings_Account_Balance": 98797,
+    "Current_Account_Expenditure": 950
+  },
+  {
+    "Date": "2019-05-31T00:00:00.000",
+    "Savings_Account_Balance": 114166,
+    "Current_Account_Expenditure": 300
+  },
+  {
+    "Date": "2019-06-30T00:00:00.000",
+    "Savings_Account_Balance": 120096,
+    "Current_Account_Expenditure": 1000
+  },
+  {
+    "Date": "2019-07-31T00:00:00.000",
+    "Savings_Account_Balance": 131950,
+    "Current_Account_Expenditure": 400
+  },
+  {
+    "Date": "2019-08-31T00:00:00.000",
+    "Savings_Account_Balance": 176643,
+    "Current_Account_Expenditure": 750
+  },
+  {
+    "Date": "2019-09-30T00:00:00.000",
+    "Savings_Account_Balance": 197796,
+    "Current_Account_Expenditure": 150
+  },
+  {
+    "Date": "2019-10-31T00:00:00.000",
+    "Savings_Account_Balance": 245528,
+    "Current_Account_Expenditure": 900
+  },
+  {
+    "Date": "2019-11-30T00:00:00.000",
+    "Savings_Account_Balance": 289190,
+    "Current_Account_Expenditure": 200
+  },
+  {
+    "Date": "2019-12-31T00:00:00.000",
+    "Savings_Account_Balance": 309592,
+    "Current_Account_Expenditure": 850
+  },
+  {
+    "Date": "2020-01-31T00:00:00.000",
+    "Savings_Account_Balance": 346950,
+    "Current_Account_Expenditure": 300
+  },
+  {
+    "Date": "2020-02-29T00:00:00.000",
+    "Savings_Account_Balance": 354929,
+    "Current_Account_Expenditure": 700
+  },
+  {
+    "Date": "2020-03-31T00:00:00.000",
+    "Savings_Account_Balance": 354408,
+    "Current_Account_Expenditure": 150
+  },
+  {
+    "Date": "2020-04-30T00:00:00.000",
+    "Savings_Account_Balance": 353868,
+    "Current_Account_Expenditure": 950
+  },
+  {
+    "Date": "2020-05-31T00:00:00.000",
+    "Savings_Account_Balance": 360453,
+    "Current_Account_Expenditure": 100
+  },
+  {
+    "Date": "2020-06-30T00:00:00.000",
+    "Savings_Account_Balance": 404916,
+    "Current_Account_Expenditure": 1000
+  },
+  {
+    "Date": "2020-07-31T00:00:00.000",
+    "Savings_Account_Balance": 443044,
+    "Current_Account_Expenditure": 200
+  },
+  {
+    "Date": "2020-08-31T00:00:00.000",
+    "Savings_Account_Balance": 464610,
+    "Current_Account_Expenditure": 800
+  },
+  {
+    "Date": "2020-09-30T00:00:00.000",
+    "Savings_Account_Balance": 481340,
+    "Current_Account_Expenditure": 250
+  },
+  {
+    "Date": "2020-10-31T00:00:00.000",
+    "Savings_Account_Balance": 514916,
+    "Current_Account_Expenditure": 900
+  },
+  {
+    "Date": "2020-11-30T00:00:00.000",
+    "Savings_Account_Balance": 515002,
+    "Current_Account_Expenditure": 300
+  },
+  {
+    "Date": "2020-12-31T00:00:00.000",
+    "Savings_Account_Balance": 545791,
+    "Current_Account_Expenditure": 950
+  },
+  {
+    "Date": "2021-01-31T00:00:00.000",
+    "Savings_Account_Balance": 586688,
+    "Current_Account_Expenditure": 100
+  },
+  {
+    "Date": "2021-02-28T00:00:00.000",
+    "Savings_Account_Balance": 614210,
+    "Current_Account_Expenditure": 750
+  },
+  {
+    "Date": "2021-03-31T00:00:00.000",
+    "Savings_Account_Balance": 635431,
+    "Current_Account_Expenditure": 200
+  },
+  {
+    "Date": "2021-04-30T00:00:00.000",
+    "Savings_Account_Balance": 654939,
+    "Current_Account_Expenditure": 850
+  },
+  {
+    "Date": "2021-05-31T00:00:00.000",
+    "Savings_Account_Balance": 662151,
+    "Current_Account_Expenditure": 100
+  },
+  {
+    "Date": "2021-06-30T00:00:00.000",
+    "Savings_Account_Balance": 659256,
+    "Current_Account_Expenditure": 1000
+  },
+  {
+    "Date": "2021-07-31T00:00:00.000",
+    "Savings_Account_Balance": 679630,
+    "Current_Account_Expenditure": 300
+  },
+  {
+    "Date": "2021-08-31T00:00:00.000",
+    "Savings_Account_Balance": 717007,
+    "Current_Account_Expenditure": 950
+  },
+  {
+    "Date": "2021-09-30T00:00:00.000",
+    "Savings_Account_Balance": 721327,
+    "Current_Account_Expenditure": 150
+  },
+  {
+    "Date": "2021-10-31T00:00:00.000",
+    "Savings_Account_Balance": 726902,
+    "Current_Account_Expenditure": 700
+  },
+  {
+    "Date": "2021-11-30T00:00:00.000",
+    "Savings_Account_Balance": 755437,
+    "Current_Account_Expenditure": 250
+  },
+  {
+    "Date": "2021-12-31T00:00:00.000",
+    "Savings_Account_Balance": 763091,
+    "Current_Account_Expenditure": 850
+  },
+  {
+    "Date": "2022-01-31T00:00:00.000",
+    "Savings_Account_Balance": 772216,
+    "Current_Account_Expenditure": 100
+  },
+  {
+    "Date": "2022-02-28T00:00:00.000",
+    "Savings_Account_Balance": 779168,
+    "Current_Account_Expenditure": 800
+  },
+  {
+    "Date": "2022-03-31T00:00:00.000",
+    "Savings_Account_Balance": 816097,
+    "Current_Account_Expenditure": 300
+  },
+  {
+    "Date": "2022-04-30T00:00:00.000",
+    "Savings_Account_Balance": 852910,
+    "Current_Account_Expenditure": 900
+  },
+  {
+    "Date": "2022-05-31T00:00:00.000",
+    "Savings_Account_Balance": 863566,
+    "Current_Account_Expenditure": 200
+  },
+  {
+    "Date": "2022-06-30T00:00:00.000",
+    "Savings_Account_Balance": 893923,
+    "Current_Account_Expenditure": 1000
+  },
+  {
+    "Date": "2022-07-31T00:00:00.000",
+    "Savings_Account_Balance": 898622,
+    "Current_Account_Expenditure": 400
+  },
+  {
+    "Date": "2022-08-31T00:00:00.000",
+    "Savings_Account_Balance": 913609,
+    "Current_Account_Expenditure": 850
+  },
+  {
+    "Date": "2022-09-30T00:00:00.000",
+    "Savings_Account_Balance": 953575,
+    "Current_Account_Expenditure": 100
+  },
+  {
+    "Date": "2022-10-31T00:00:00.000",
+    "Savings_Account_Balance": 995083,
+    "Current_Account_Expenditure": 1000
+  },
+  {
+    "Date": "2022-11-30T00:00:00.000",
+    "Savings_Account_Balance": 1009034,
+    "Current_Account_Expenditure": 250
+  },
+  {
+    "Date": "2022-12-31T00:00:00.000",
+    "Savings_Account_Balance": 1054806,
+    "Current_Account_Expenditure": 950
+  },
+  {
+    "Date": "2023-01-31T00:00:00.000",
+    "Savings_Account_Balance": 1068674,
+    "Current_Account_Expenditure": 150
+  },
+  {
+    "Date": "2023-02-28T00:00:00.000",
+    "Savings_Account_Balance": 1091419,
+    "Current_Account_Expenditure": 900
+  },
+  {
+    "Date": "2023-03-31T00:00:00.000",
+    "Savings_Account_Balance": 1090744,
+    "Current_Account_Expenditure": 200
+  },
+  {
+    "Date": "2023-04-30T00:00:00.000",
+    "Savings_Account_Balance": 1115779,
+    "Current_Account_Expenditure": 800
+  },
+  {
+    "Date": "2023-05-31T00:00:00.000",
+    "Savings_Account_Balance": 1169894,
+    "Current_Account_Expenditure": 300
+  },
+  {
+    "Date": "2023-06-30T00:00:00.000",
+    "Savings_Account_Balance": 1181701,
+    "Current_Account_Expenditure": 1000
+  },
+  {
+    "Date": "2023-07-31T00:00:00.000",
+    "Savings_Account_Balance": 1233102,
+    "Current_Account_Expenditure": 400
+  },
+  {
+    "Date": "2023-08-31T00:00:00.000",
+    "Savings_Account_Balance": 1276273,
+    "Current_Account_Expenditure": 700
+  },
+  {
+    "Date": "2023-09-30T00:00:00.000",
+    "Savings_Account_Balance": 1291705,
+    "Current_Account_Expenditure": 150
+  },
+  {
+    "Date": "2023-10-31T00:00:00.000",
+    "Savings_Account_Balance": 1321788,
+    "Current_Account_Expenditure": 950
+  },
+  {
+    "Date": "2023-11-30T00:00:00.000",
+    "Savings_Account_Balance": 1355023,
+    "Current_Account_Expenditure": 200
+  },
+  {
+    "Date": "2023-12-31T00:00:00.000",
+    "Savings_Account_Balance": 1358625,
+    "Current_Account_Expenditure": 1000
+  },
+  {
+    "Date": "2024-01-31T00:00:00.000",
+    "Savings_Account_Balance": 1359768,
+    "Current_Account_Expenditure": 300
+  },
+  {
+    "Date": "2024-02-29T00:00:00.000",
+    "Savings_Account_Balance": 1383772,
+    "Current_Account_Expenditure": 850
+  },
+  {
+    "Date": "2024-03-31T00:00:00.000",
+    "Savings_Account_Balance": 1408538,
+    "Current_Account_Expenditure": 100
+  },
+  {
+    "Date": "2024-04-30T00:00:00.000",
+    "Savings_Account_Balance": 1408208,
+    "Current_Account_Expenditure": 900
+  },
+  {
+    "Date": "2024-05-31T00:00:00.000",
+    "Savings_Account_Balance": 1423795,
+    "Current_Account_Expenditure": 250
+  },
+  {
+    "Date": "2024-06-30T00:00:00.000",
+    "Savings_Account_Balance": 1462015,
+    "Current_Account_Expenditure": 1000
+  },
+  {
+    "Date": "2024-07-31T00:00:00.000",
+    "Savings_Account_Balance": 1476467,
+    "Current_Account_Expenditure": 400
+  },
+  {
+    "Date": "2024-08-31T00:00:00.000",
+    "Savings_Account_Balance": 1519728,
+    "Current_Account_Expenditure": 850
+  },
+  {
+    "Date": "2024-09-30T00:00:00.000",
+    "Savings_Account_Balance": 1531502,
+    "Current_Account_Expenditure": 200
+  },
+  {
+    "Date": "2024-10-31T00:00:00.000",
+    "Savings_Account_Balance": 1579733,
+    "Current_Account_Expenditure": 950
+  },
+  {
+    "Date": "2024-11-30T00:00:00.000",
+    "Savings_Account_Balance": 1591405,
+    "Current_Account_Expenditure": 100
+  },
+  {
+    "Date": "2024-12-31T00:00:00.000",
+    "Savings_Account_Balance": 1592055,
+    "Current_Account_Expenditure": 1000
+  }
+]
